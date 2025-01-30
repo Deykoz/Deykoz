@@ -3,8 +3,10 @@
 **`Engineering Student (Embedded Systems | Big Data & Machine Learning)`**
 <!--
 **Deykoz/Deykoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
 ---
 ### 🧰 Languages and Tools
+
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
